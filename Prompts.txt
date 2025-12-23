@@ -1,0 +1,8 @@
+User: Create a poker hand evaluator in Go.
+AI: Created strict object-oriented structure with Card, Hand, Suit, Rank.
+User: Implement evaluation logic for 5 and 7 cards.
+AI: Implemented Evaluate() and findBestFive().
+User: Implement comparison logic.
+AI: Implemented Compare() with lexicographical kicker comparison.
+User: Add tests from the assignment file.
+AI: Parsed specific cases from "Hands to be tested.txt" and implemented table-driven tests.
