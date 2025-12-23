@@ -1,3 +1,6 @@
+AI Tool Used: Google Gemini
+
+Prompts:
 User: Create a poker hand evaluator in Go.
 AI: Created strict object-oriented structure with Card, Hand, Suit, Rank.
 User: Implement evaluation logic for 5 and 7 cards.
