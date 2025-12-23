@@ -2,9 +2,6 @@
 
 This project implements a Texas Hold'em hand evaluator in Go, adhering strictly to object-oriented design principles as specified in the assignment. It supports evaluating 5-card hands, finding the best 5-card hand from 7 cards, and comparing hands.
 
-## Prerequisites
-
-- [Go](https://go.dev/dl/) (version 1.16 or later)
 
 ## Usage
 
